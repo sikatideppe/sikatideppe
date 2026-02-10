@@ -72,7 +72,7 @@ Ce projet démontre ma capacité à travailler sur des **données réelles**, à
 
 **Langages :**
 
-* Python, SQL
+* Python, SQL,R
 
 **Data Science :**
 
@@ -104,8 +104,8 @@ Intégrer une équipe en tant que **Data Scientist junior** afin de :
 
 ## 👋 Me contacter
 
-🔗 **LinkedIn**
-💻 **GitHub**
+🔗 **[LinkedIn](https://www.linkedin.com/feed/?trk=hb_signin)**
+💻 **[GitHub](https://github.com/sikatideppe/sikatideppe/blob/main/README.md)**
 
 ---
 
