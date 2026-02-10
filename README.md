@@ -106,7 +106,7 @@ Intégrer une équipe en tant que **Data Scientist junior** afin de :
 
 🔗 **[LinkedIn](https://www.linkedin.com/feed/?trk=hb_signin)**
 💻 **[GitHub](https://github.com/sikatideppe/sikatideppe/blob/main/README.md)**
-📧 Email : herveytui@gmail.com
+📧 Email : herhermman@gmail.com
 
 
 ---
