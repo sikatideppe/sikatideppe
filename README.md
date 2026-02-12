@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Hervé Hermman
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-<-- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Junior-success) -->
+<!-- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Junior-success) -->
 ![Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-Active-black?logo=github)
 
