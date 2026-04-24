@@ -69,6 +69,11 @@ Ce projet repose sur l’exploitation des données du système **Ontario 511**, 
 Ce projet démontre ma capacité à travailler sur des **données réelles**, à structurer efficacement l’information et à produire des analyses exploitables dans un contexte professionnel.
 
 ---
+**Projet Collaboratif**
+[https://github.com/FELICITE0912/Pneumonia](https://github.com/FELICITE0912/Pneumonia)
+<img width="2492" height="263" alt="image" src="https://github.com/user-attachments/assets/d53f17b6-b149-40f5-b9a3-6e2440e34df7" />
+
+---
 
 ## 🛠️ Outils & Technologies
 
