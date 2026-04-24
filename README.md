@@ -69,8 +69,7 @@ Ce projet repose sur l’exploitation des données du système **Ontario 511**, 
 Ce projet démontre ma capacité à travailler sur des **données réelles**, à structurer efficacement l’information et à produire des analyses exploitables dans un contexte professionnel.
 
 ---
-**Projet Collaboratif :**<br>[https://github.com/sikatideppe/projet-collaboratif/new/main?readme=1](https://github.com/sikatideppe/projet-collaboratif/new/main?readme=1)
-
+**Projet Collaboratif :**<br>https://github.com/sikatideppe/projet-collaboratif
 ---
 
 ## 🛠️ Outils & Technologies
