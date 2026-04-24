@@ -71,7 +71,7 @@ Ce projet démontre ma capacité à travailler sur des **données réelles**, à
 ---
 **Projet Collaboratif**
 [https://github.com/FELICITE0912/Pneumonia](https://github.com/FELICITE0912/Pneumonia)
-<img width="2492" height="263" alt="image" src="https://github.com/user-attachments/assets/d53f17b6-b149-40f5-b9a3-6e2440e34df7" />
+
 
 ---
 
