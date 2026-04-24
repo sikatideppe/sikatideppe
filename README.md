@@ -69,10 +69,7 @@ Ce projet repose sur l’exploitation des données du système **Ontario 511**, 
 Ce projet démontre ma capacité à travailler sur des **données réelles**, à structurer efficacement l’information et à produire des analyses exploitables dans un contexte professionnel.
 
 ---
-**Projet Collaboratif :**<br>
-* Detection de la pneumonie en 2 categories malade et non malade
-[https://github.com/FELICITE0912/Pneumonia](https://github.com/FELICITE0912/Pneumonia)
-
+**Projet Collaboratif :**<br>[https://github.com/sikatideppe/projet-collaboratif/new/main?readme=1](https://github.com/sikatideppe/projet-collaboratif/new/main?readme=1)
 
 ---
 
