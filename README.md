@@ -72,6 +72,9 @@ Ce projet démontre ma capacité à travailler sur des **données réelles**, à
 **Projet Collaboratif :**<br>https://github.com/sikatideppe/projet-collaboratif
 ---
 
+---
+**Dashboard Tableau et Power BI :**<br>https://github.com/sikatideppe/projet-collaboratif
+---
 ## 🛠️ Outils & Technologies
 
 **Langages :**
